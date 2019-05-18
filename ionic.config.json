@@ -1,5 +1,6 @@
 {
   "name": "vocApp_blank",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "97fef755"
 }
